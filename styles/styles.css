@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    font-family: 'raleway', san-serif;
+    line-height: 2.3em;
+    font-weight: 800;
+    max-width: 600px;
+    margin: auto;
+    padding-top: 71px;
+    padding-bottom: 80px;
+
+}
+
+button:hover {
+    background-color: aqua;
+}
+
+.our-content {
+    font-family: 'Raleway', sans-serif;
+    line-height: 2.5em;
+    font-weight: 900;
+    max-width: 600px;
+    margin: auto;
+    padding-top: 71px;
+    padding-bottom: 80px;
+}

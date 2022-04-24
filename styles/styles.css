@@ -4,7 +4,6 @@ body {
     font-family: 'raleway', san-serif;
     line-height: 2.3em;
     font-weight: 800;
-    max-width: 600px;
     background-image: url(../images/sun-pattern.png);
 
 }
@@ -13,6 +12,7 @@ body {
     margin: auto;
     padding-top: 71px;
     padding-bottom: 80px;
+    max-width: 600px;
 
 }
 
@@ -29,7 +29,7 @@ ul {
   }
   
   li {
-    float: right;
+    float: left;
   }
   
   li a {
@@ -44,4 +44,8 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
+.active {
+    background-color: blue;
+}
 
